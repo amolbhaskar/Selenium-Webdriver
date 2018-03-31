@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestingKING TestNG Learning">
+
+<test name="Annotation_TestNG test1">
+	<classes>
+		<class name="Day7.Annotation_TestNG"></class>
+	</classes>
+</test>
+<test name="Parameterization_TestNG test2">
+	<classes>
+		<class name="Day7.Parameterization_TestNG"></class>
+	</classes>
+</test>
+
+</suite>
